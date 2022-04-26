@@ -1,8 +1,8 @@
 {
-  "name": "react-typescript-tailwindcss-example",
+  "name": "todolist-with-drag-and-drop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://christineoo.github.io/react-typescript-tailwindcss-example/",
+  "homepage": "https://github.com/96moes/todolist-with-drag-and-drop",
   "dependencies": {
     "@types/jest": "24.0.18",
     "@types/node": "12.7.12",
